@@ -1,0 +1,110 @@
+
+
+.container-tabel{
+    display: flex;
+    flex-wrap: wrap;
+    width: 20vw;
+    height: 41vh;
+    border-color: black;
+    justify-content: space-between;
+   
+
+}
+
+
+.circle1{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    display: inline-block;
+    border: 1px solid black;
+  }
+  .circle2{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    display: inline-block;
+    border: 1px solid black;
+  }
+  .circle3{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    display: inline-block;
+    border: 1px solid black;
+  }
+  .circle4{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    display: inline-block;
+    border: 1px solid black;
+  }
+  .circle5{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    display: inline-block;
+    border: 1px solid black;
+  }
+  .circle6{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    display: inline-block;
+    border: 1px solid black;
+  }
+  .circle7{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    display: inline-block;
+    border: 1px solid black;
+  }
+  .circle8{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    display: inline-block;
+    border: 1px solid black;
+  }
+  .circle9{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    display: inline-block;
+    border: 1px solid black;
+  }
+  .circle10{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    display: inline-block;
+    border: 1px solid black;
+  }
+  .circle11{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    display: inline-block;
+    border: 1px solid black;
+  }
+  .circle12{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    display: inline-block;
+    border: 1px solid black;
+  }
