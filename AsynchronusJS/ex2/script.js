@@ -1,0 +1,1 @@
+let buttonJs =document.querySelector("button").addEventListener
